@@ -40,9 +40,9 @@ mean(simlist)
 cumulative_mean<- cumsum(simlist)/1:n
 
 plot(1:n, cumulative_mean,type='p', col="green4",
-     xlab="Number of tosses",
+     xlab="Number of tosses (epochs)",
      ylab="Simulated probability",
-     main= "Convergence to true probablity simulation")
+     main= "Convergence to true probability ")
 
 abline(h=0.467, col="salmon", lw= 2)
 
