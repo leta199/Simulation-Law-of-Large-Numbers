@@ -15,13 +15,18 @@ Environemnt: RStudio
 
 ## METHODS AND TECHNIQUES  
 **Function creation**  
- Defined a new variable called `simdivis()` that returns a 1 if our number is divisible by 3, 5 or 9 and 0 if not.  
+Defined a new function called `simdivis()` that returns a 1 if a number form 1 to 1000 is divisible by 3, 5 or 9 and 0 if not.  
+
 **Seed**   
 This sets our seed for reproducability of results.
+
 **Experiment**   
 Repeat  the tosses 50, 2000 and 10,000 times using the `replicate()` function and get an average of each of the tosses.  
+
 **Vizualisation**   
 Create a scatter-plot to show the average of each repeated experiment against the `abline(`) of true calculated probability. 
+
+<img width="1440" height="898" alt="Image" src="https://github.com/user-attachments/assets/fdb05d23-d3a8-4188-b7b7-4d7c8d07490d" />
 
 ## ACKNOWLEDGEMENTS
 This simulation is based on an in-class example by Dr. Wei- Min Huang 
