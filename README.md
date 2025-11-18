@@ -23,6 +23,9 @@ Repeat  the tosses 50, 2000 and 10,000 times using the `replicate()` function an
 **Vizualisation**   
 Create a scatter-plot to show the average of each repeated experiment against the `abline(`) of true calculated probability. 
 
+## ACKNOWLEDGEMENTS
+This simulation is based on an in-class example by Dr. Wei- Min Huang 
+
 ## PROJECT STRUCTURE      
 |[Simulation- Law of Large Numbers](https://github.com/leta199/Simulation-Law-of-Large-Numbers-)   
 |├──[Analytical solution pdf](https://github.com/leta199/Simulation-Law-of-Large-Numbers/blob/main/LLN%20pdf%20analytical.pdf)  
@@ -32,4 +35,3 @@ Create a scatter-plot to show the average of each repeated experiment against th
 
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
-This simulation is based on an in-class example by Dr. Wei- Min Huang 
