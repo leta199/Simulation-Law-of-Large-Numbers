@@ -34,7 +34,9 @@ This simulation is based on an in-class example by Dr. Wei- Min Huang
 
 ## PROJECT STRUCTURE      
 |[Simulation- Law of Large Numbers](https://github.com/leta199/Simulation-Law-of-Large-Numbers-)   
-|├──[analytical](https://github.com/leta199/Simulation-Law-of-Large-Numbers/tree/main/analytical)  
+|├──[analytical](https://github.com/leta199/Simulation-Law-of-Large-Numbers/tree/main/analytical)    
+│  ├──[LLN pdf analytical](https://github.com/leta199/Simulation-Law-of-Large-Numbers/blob/main/analytical/LLN%20pdf%20analytical.pdf)     
+│  └──[LLN tex](https://github.com/leta199/Simulation-Law-of-Large-Numbers/blob/main/analytical/LLN.tex) 
 |├── [Law of large numbers sim/](https://github.com/leta199/Simulation-Law-of-Large-Numbers-/blob/main/Law_of_Large_Numbers_sim.r)   
 |└── [README.md/](https://github.com/leta199/Simulation-Law-of-Large-Numbers-/blob/main/README.md)  
 
