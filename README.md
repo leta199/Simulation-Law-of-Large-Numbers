@@ -1,8 +1,12 @@
 # Simulation-Law-of-Large-Numbers-
 Testing out stochastic simulations to visualise the Law of Large Number (LLN) as one of the foundations of statistics and probability.   
 
+[![Language: R](https://img.shields.io/badge/Language-R-276DC3.svg?style=flat-square)](https://www.r-project.org/)
+[![Built with RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?style=for‐the‐badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
+![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
+
 ## HOW IT'S MADE 
-Languages used: R verion (4.5.1)    
+Languages used: R version (4.5.1)    
 Environemnt: RStudio
 
 ## METHODS AND TECHNIQUES  
