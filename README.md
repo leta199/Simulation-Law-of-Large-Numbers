@@ -30,7 +30,7 @@ Create a scatter-plot to show the average of each repeated experiment against th
 <img width="1440" height="898" alt="Image" src="https://github.com/user-attachments/assets/fdb05d23-d3a8-4188-b7b7-4d7c8d07490d" />
 
 ## ACKNOWLEDGEMENTS
-This simulation is based on an in-class example by Dr. Wei- Min Huang 
+This simulation is based on an in-class example by Dr. Wei-Min Huang 
 
 ## PROJECT STRUCTURE      
 |[Simulation- Law of Large Numbers](https://github.com/leta199/Simulation-Law-of-Large-Numbers-)   
