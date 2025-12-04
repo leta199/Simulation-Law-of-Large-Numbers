@@ -10,7 +10,7 @@ This project will cover:
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 
 ## HOW IT'S MADE 
-Languages used: R version (4.5.1)    
+Languages used: R (version 4.5.1)    
 Environemnt: RStudio
 
 ## METHODS AND TECHNIQUES  
